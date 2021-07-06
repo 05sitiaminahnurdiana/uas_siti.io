@@ -1,0 +1,7 @@
+.banner {
+  background-image: url(1.jpg);
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 40px;
+  color: aliceblue;
+}
